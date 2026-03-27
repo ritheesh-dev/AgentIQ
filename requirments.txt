@@ -1,0 +1,6 @@
+#framework
+langchain
+langgraph
+langchain-community
+langchain-qroq
+python-dotenv
