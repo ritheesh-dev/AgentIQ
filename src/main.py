@@ -5,13 +5,7 @@ import os
 
 load_dotenv()
 
-message = [AIMessage(content=f"you name is gokul ? ", name= "AI")]
-message.append(HumanMessage(content=f"yes i am",  name="Gokul"))
-
 llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0, max_tokens=None, max_retries=2)
-
-
-
 
 def multiply(a: int,b: int) ->int:
 
