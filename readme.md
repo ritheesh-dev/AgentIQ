@@ -52,7 +52,7 @@
 ## 📁 Project Structure
 
 ```
-Nexcus Agentic AI/
+AgenticIQ/
 ├── src/
 │   ├── RAG/
 │   │   ├── __init__.py
@@ -189,13 +189,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 <div align="center">
   Built with ❤️ using LangChain, LangGraph, Groq & Streamlit | AgenticIQ
