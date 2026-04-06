@@ -1,0 +1,18 @@
+# Framework
+langchain
+langgraph
+langchain_classic
+langchain-community
+langchain_groq 
+langchain-huggingface
+langchain_tavily
+langchain_core
+
+# VectorDB
+chromadb
+
+# Eve
+python-dotenv
+
+# Frontend
+streamlit
